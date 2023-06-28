@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    width: 500px;
+    height:250px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 30px;
+    color: aliceblue;
+    background-color: rgb(41, 63, 63);
+}
